@@ -1,5 +1,5 @@
 function CheckoutDialog() {
-  return <div />
+  return <div>This is the Checkout Dialog</div>
 }
 
 export default CheckoutDialog;

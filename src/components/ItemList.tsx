@@ -1,5 +1,5 @@
 function ItemList() {
-  return <div />
+  return <div>This is the Item List</div>
 }
 
 export default ItemList;
