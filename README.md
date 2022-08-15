@@ -2,6 +2,7 @@
 Created Checkout service
 
 ## Test Checkout function
-```npm run test
+```bash
+npm run test
 ```
 
