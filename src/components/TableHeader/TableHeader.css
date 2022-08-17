@@ -1,0 +1,9 @@
+.table-header {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr 1fr 1fr;
+  background-color: lightgray;
+}
+
+.col {
+  font-weight: 600;
+}
