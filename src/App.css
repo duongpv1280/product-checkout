@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.checkout-info {
+  display: flex;
+  flex-direction: row;
+}
