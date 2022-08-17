@@ -34,9 +34,7 @@ function App() {
   }
 
   const handleCheckoutButton = () => {
-    const rule = promotions(customerName.toLowerCase());
-    const rules = [];
-    rules.push(rule);
+    const rules = promotions(customerName.toLowerCase());
 
     const co: Checkout = new Checkout(rules);
     itemList.forEach(item => {
